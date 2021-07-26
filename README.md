@@ -31,9 +31,12 @@ Responsibilities:
 
 *IS programmer (2002 - 2003)*  
 
-* Testing security components in JBoss Enterprise Application Platform (EAP); mainly focused on WildFly Elytron project and its integration to the application server
-* Developing tests for certifications of JBoss EAP in containers and clouds;
-* Responsible for Common Criteria Certification testing of the JBoss EAP.
+Application development for healthcare and finance.
+
+#### Technologies used
+
+* JavaScript, tcl
+* Visual Basic
 
 ## Education
 
