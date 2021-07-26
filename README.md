@@ -6,7 +6,7 @@ Specialties:
 * Java
 * Linux
 * SQL
-* 
+
 ## Experience
 
 ### AIS Software
