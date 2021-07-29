@@ -2,7 +2,8 @@
 
 Java developer with experience in finance applications development.
 
-Specialties: 
+Specialties:
+
 * Java
 * Linux
 * SQL
@@ -16,6 +17,7 @@ Specialties:
 Development of an information system for insurance companies.
 
 Responsibilities:
+
 * Implementing new features;
 * Investigating and fixing reported issues;
 * Creating automated test for features.
