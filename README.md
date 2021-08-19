@@ -12,7 +12,7 @@ Specialties:
 
 ### AIS Software
 
-*Java Programmer (2004 - present)*
+*Java Programmer (2004 - 2021)*
 
 Development of an information system for insurance companies.
 
