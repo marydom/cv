@@ -44,3 +44,4 @@ Application development for healthcare and finance.
 
 * Bachelor's degree at Masaryk University, Historical Sciences, Faculty of Arts (2004 - 2009) - Brno / Czech Republic
 * unfinished studies at Masaryk University, Faculty of Informatics (1998 - 2003) - Brno / Czech Republic
+
