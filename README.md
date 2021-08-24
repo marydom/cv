@@ -26,7 +26,6 @@ Responsibilities:
 
 * **Java**, JUnit, EclipseLink
 * **SQL**, Oracle
-* XML
 * Linux
 
 ### ICZ
